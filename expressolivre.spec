@@ -14,7 +14,7 @@ Release:	%{release}
 Summary:	Web-based groupware suite written in php
 License:	GPL+
 Group:		System/Servers
-URL:		http://www.expressolivre.org/
+URL:		https://www.expressolivre.org/
 Source0:	http://downloads.sourceforge.net/%{name}/%{ShortName}-%{version}.tar.bz2
 #Source1:	http://www.expressolivre.org/html/expressolivre/downloads/releases/%{ShortName}-%{Version}.tar.gz
 
