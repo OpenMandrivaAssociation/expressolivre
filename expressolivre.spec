@@ -6,7 +6,7 @@
 %define	ShortName expresso
 %define	version	2.0.9
 %define	Version	2_0_9
-%define	release	%mkrel 1
+%define	release 2
 
 Name:		%{name}
 Version:	%{version}
